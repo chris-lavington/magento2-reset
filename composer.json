@@ -1,5 +1,5 @@
 {
-  "name": "comunicart/magento2-reset",
+  "name": "chris-lavington/magento2-reset",
   "description": "Reset database removing categories, products, orders, customers and reviews.",
   "type": "magento2-module",
   "version": "2.1.0",
